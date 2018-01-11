@@ -1,0 +1,14 @@
+{
+  "name": "@jamen/dev-server",
+  "version": "0.0.0",
+  "description": "Dev server and file watcher that runs commands and autoreloads.",
+  "bin": "./lib/dev-server.js",
+  "author": "Jamen Marz (jamenmarz.com)",
+  "license": "MIT",
+  "dependencies": {
+    "mime-db": "^1.32.0",
+    "minimatch": "^3.0.4",
+    "recursive-watch": "^1.1.2",
+    "ws": "^4.0.0"
+  }
+}
