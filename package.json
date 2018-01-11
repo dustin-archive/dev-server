@@ -6,6 +6,7 @@
   "author": "Jamen Marz (jamenmarz.com)",
   "license": "MIT",
   "dependencies": {
+    "@jamen/watch-exec": "github:jamen/watch-exec",
     "mime-db": "^1.32.0",
     "minimatch": "^3.0.4",
     "recursive-watch": "^1.1.2",
