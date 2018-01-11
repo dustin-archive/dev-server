@@ -34,5 +34,5 @@ Use `$_FILE` inside the command string if you need access to the path.
 
 The server can be configured through the environment variables:
 
-- `RELOAD_ADDRESS`
-- `RELOAD_PORT`
+- `DEV_SERVER_ADDRESS`
+- `DEV_SERVER_PORT`
