@@ -1,7 +1,7 @@
 
 # dev-server
 
-Dev server and file watcher that runs commands and autoreloads.
+Watch files, execute build scripts, and launch an autoreloading dev server.
 
 ![example](example.gif)
 
@@ -19,7 +19,7 @@ Starts a server at `entry` and creates the given watchers.
 
 ```sh
 $ dev-server dist --watch "src/**/*.js" "make js"
-$ dev-server dist --watch "src/**/*.js" "cat $_FILE"
+$ dev-server dist --watch "src/**/*.js" "cat $FILE"
 ```
 
 Or with multiple watchers:
@@ -30,7 +30,7 @@ $ dev-server dist --watch "src/**/*.js" "make js" \
                   --watch "src/**/*.html" "make html"
 ```
 
-Use `$_FILE` inside the command string if you need access to the path.
+Use `$FILE` inside the command string if you need access to the path.
 
 The server can be configured through the environment variables:
 
