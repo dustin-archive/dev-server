@@ -6,7 +6,7 @@
   "author": "Jamen Marz (jamenmarz.com)",
   "license": "MIT",
   "dependencies": {
-    "@jamen/watch-exec": "github:jamen/watch-exec",
+    "@jamen/watch-exec": "^1.0.0",
     "mime-db": "^1.32.0",
     "ws": "^4.0.0"
   }
