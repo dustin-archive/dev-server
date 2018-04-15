@@ -1,7 +1,7 @@
 
 # dev-server
 
-Watch files, execute build scripts, and launch an autoreloading dev server.
+Watch files, execute build scripts, and launch an auto-reloading dev server.
 
 ![example](example.gif)
 
