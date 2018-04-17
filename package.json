@@ -7,7 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "@jamen/watch-exec": "^1.0.0",
-    "mime-db": "^1.32.0",
-    "ws": "^4.0.0"
+    "mime-db": "^1.33.0",
+    "ws": "^5.1.1"
   }
 }
