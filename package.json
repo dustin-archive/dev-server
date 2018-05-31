@@ -1,13 +1,13 @@
 {
   "name": "@jamen/dev-server",
   "version": "0.3.0",
-  "description": "Watch files, execute build scripts, and launch an autoreloading dev server.",
+  "description": "Watch files, execute build scripts, and launch an auto-reloading dev server.",
   "bin": "./lib/dev-server.js",
   "author": "Jamen Marz (jamenmarz.com)",
   "license": "MIT",
   "dependencies": {
     "@jamen/watch-exec": "^1.0.0",
-    "mime-db": "^1.32.0",
-    "ws": "^4.0.0"
+    "mime-db": "^1.33.0",
+    "ws": "^5.1.1"
   }
 }
