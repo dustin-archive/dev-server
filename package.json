@@ -7,10 +7,8 @@
   "license": "MIT",
   "dependencies": {
     "@jamen/watch-exec": "^1.0.0",
-    "arg": "^2.0.0",
     "mime-db": "^1.33.0",
     "minimatch": "^3.0.4",
-    "minimist": "^1.2.0",
     "recursive-watch": "^1.1.4",
     "ws": "^5.1.1"
   }
