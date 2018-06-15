@@ -24,4 +24,5 @@ typings/
 .yarn-integrity
 .env
 # (produces errors)
-# package-lock.json
+package-lock.json
+shrinkwrap.yaml
